@@ -13,7 +13,7 @@
 <br />
 <ul>
 <li>👷 Currently pursuing BSc in Computer Science(2019-2023) from Usman Institure of Technology. </li>
-<li>💼 Working as Research Intern at <a href="https://github.com/merledu"> Micro Electronics Research Lab (MERL-UIT)</a>. </li>
+<li>💼 Working as trainee at <a href="https://github.com/merledu"> Micro Electronics Research Lab (MERL-UIT)</a>. </li>
 
 <li>🔭 I am a Frontend Developer</li>
 <li>🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.</li>
