@@ -2,7 +2,7 @@
  
  # Hello, I'm Muhammad Nameer  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## || Programmer, Hardware Designer, Graphics Designer, Computer Scientist to-be ||
+## || Frontend Developer, Graphics Designer, Computer Scientist to-be ||
 
 <div>
 
@@ -12,13 +12,11 @@
 
 <br />
 <ul>
-<li>👷 Currently pursuing BSc in Computer Science(2019-2023) from Usman Institure of Technology. </li>
- <li>Passionate about <a href="https://riscv.org/"> RISCV</a> </li>
-<li>💼 Working as trainee at <a href="https://github.com/merledu"> Micro Electronics Research Lab (MERL-UIT)</a>. </li>
-
+<li>👷 Currently pursuing BSc in Computer Science(2019-2023) from Usman Institute of Technology. </li>
+ 
 <li>🔭 I am a Frontend Developer</li>
 <li>🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.</li>
-<li>🥅 2021 Goals: Contribute more to Open Source projects, which I couldn't do much in 2020.</li>
+<li>🥅 2023 Goals: Contribute more to Open Source projects, which I couldn't do much in 2022.</li>
 </ul>
 
 </div>
