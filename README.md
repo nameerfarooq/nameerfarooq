@@ -2,7 +2,7 @@
  
  # Hello, I'm Muhammad Nameer  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## || Frontend Developer, Graphics Designer, Computer Scientist ||
+## Expert in Frontend, JavaScript, React Js, Redux, API Integrations
 
 <div>
 
@@ -18,7 +18,55 @@
 <li>🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.</li>
 <li>🥅 2024 Goals: Contribute more to Open Source projects, which I couldn't do much in 2023.</li>
 </ul>
+<br/>
+<p>
+ 🎯 FrontEnd Development Expert 🎯 React Js Expert 🎯 Redux Expert 🎯 JavaScript 🎯 API Integrations.
 
+🌟 Trusted 3+ 𝐲𝐞𝐚𝐫𝐬 experience in Frontend Development with 100% Client Success Rate.🌟
+
+Hello, I am Muhammad Nameer, A Software Engineer 🎯 specialized in Frontend Development using React Js as my core skill. I am doing Frontend Development from past 3 years. In this tenure I have developed various types of Websites using React Js having low to critical complexity level. my skills and tools are:
+
+⭐️ HTML5
+⭐️ CSS3
+⭐️ SCSS
+⭐️ Material UI
+⭐️ Bootstrap
+⭐️ JavaScript
+⭐️ ES6
+⭐️ React JS
+⭐️ Redux Toolkit
+⭐️ Context API
+⭐️ Custom Hooks development
+⭐️ Axios
+⭐️ Fetch API
+⭐️ Web3 Integrations
+⭐️ API Integration
+⭐️ Swiper.js
+⭐️ Solana
+⭐️ Ethereum
+
+🚀 Responsive Design
+🚀 PSD to HTML
+🚀 PSD to React Js
+🚀 figma to HTML
+🚀 figma to React Js
+🚀 Adobe Xd to HTML
+🚀 Adobe Xd to React Js
+
+🛠️ Adobe PhotoShop
+🛠️ Vs Code
+🛠️ Github
+🛠️ Netlify
+🛠️ AWS
+🛠️ Postman
+🛠️ WordPress,
+🛠️ Elementor
+🛠️ Blockchain.
+
+I usually build:
+
+Landing Pages, Portfolio websites, Business websites, Educational Websites, Blogs Websites, Marketing websites, Real Estate Websites, E-Commerce Websites, Matrimonial Websites, Dashboards, Graphs, Forms, and much more
+</p>
 </div>
  
 ## ⚡ Skills and Languages
