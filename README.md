@@ -14,13 +14,13 @@
 <ul>
 <li>👷 BSc in Computer Science from Usman Institute of Technology. </li>
  
-<li>🔭 I am a Frontend Developer</li>
+<li>🔭 Software Engineer </li>
 <li>🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.</li>
 <li>🥅 2024 Goals: Contribute more to Open Source projects, which I couldn't do much in 2023.</li>
 </ul>
 <br/>
 <p>
- 🎯 FrontEnd Development Expert 🎯 React Js Expert 🎯 Redux Expert 🎯 JavaScript 🎯 API Integrations.
+ 🎯 FrontEnd Development Expert 🎯 React Js Expert 🎯 Redux Expert 🎯 JavaScript 🎯 API Integrations 🎯 MERN Stack.
 
 🌟 Trusted 3+ 𝐲𝐞𝐚𝐫𝐬 experience in Frontend Development with 100% Client Success Rate.🌟
 
