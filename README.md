@@ -24,7 +24,7 @@
 
 🌟 Trusted 3+ 𝐲𝐞𝐚𝐫𝐬 experience in Frontend Development with 100% Client Success Rate.🌟
 
-Hello, I am Muhammad Nameer, A Software Engineer 🎯 specialized in Frontend Development using React Js as my core skill. I am doing Frontend Development from past 3 years. In this tenure I have developed various types of Websites using React Js having low to critical complexity level. my skills and tools are:
+Hello, I am Muhammad Nameer, A Software Engineer 🎯 specialized in Frontend Development using React Js as my core skill and now transitioning towards full stack development. I am doing Frontend Development from past 3 years. In this tenure I have developed various types of Websites using React Js having low to critical complexity level. my skills and tools are:
 
 ⭐️ HTML5
 ⭐️ CSS3
