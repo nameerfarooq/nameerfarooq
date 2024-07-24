@@ -12,7 +12,7 @@
 
 <br />
 <ul>
-<li>👷 BSc in Computer Science from Usman Institute of Technology. </li>
+<li>👷 BSc in Computer Science from UIT(NED). </li>
  
 <li>🔭 Software Engineer </li>
 <li>🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.</li>
