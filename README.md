@@ -14,7 +14,7 @@
 <ul>
 <li>👷 BSc in Computer Science from UIT(NED). </li>
  
-<li>🔭 Software Engineer </li>
+<li>🔭 Software Engineer || Front-end Developer</li>
 <li>🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.</li>
 <li>🥅 2024 Goals: Contribute more to Open Source projects, which I couldn't do much in 2023.</li>
 </ul>
