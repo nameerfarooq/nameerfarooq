@@ -14,7 +14,7 @@
 <ul>
 <li>👷 BSc in Computer Science from UIT(NED). </li>
  
-<li>🔭 Software Engineer || Front-end Developer</li>
+<li>🔭 Software Engineer || MERN Stack Developer</li>
 <li>🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.</li>
 
 </ul>
