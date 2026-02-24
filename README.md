@@ -36,7 +36,7 @@ Other Tools: Github Copilot, Cursor AI, Trello, Jira, Clickup, Notion, MS Office
 </p>
 </div>
  
-## ⚡ Skills and Languages
+
 
 ## 🌐 Connect with me
 
@@ -61,7 +61,4 @@ Other Tools: Github Copilot, Cursor AI, Trello, Jira, Clickup, Notion, MS Office
 [gmail]: mailto:nameerfarooq18@gmail.com
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nameerfarooq/count.svg" />
-</p>
+
